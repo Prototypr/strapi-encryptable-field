@@ -1,0 +1,14 @@
+{
+  "strapi-encryptable-field.plugin.name": "Encryptable field",
+  "strapi-encryptable-field.label": "Encryptable",
+  "strapi-encryptable-field.settings": "Settings",
+  "strapi-encryptable-field.options.advanced.regex": "RegExp pattern",
+  "strapi-encryptable-field.options.advanced.regex.description": "Provide a regular expression to validate the value",
+  "strapi-encryptable-field.options.advanced.regex.hint": "Input hint",
+  "strapi-encryptable-field.options.advanced.regex.hint.description": "Input example",
+  "strapi-encryptable-field.options.advanced.requiredField": "Required field",
+  "strapi-encryptable-field.options.advanced.requiredField.description": "You won't be able to create an entry if this field is empty",
+  "strapi-encryptable-field.options.role_selector.label": "Select one or more roles",
+  "strapi-encryptable-field.options.role_selector.description": "Only for these roles the values will be decrypted",
+  "strapi-encryptable-field.aria-label": "Encryptable field input"
+}
